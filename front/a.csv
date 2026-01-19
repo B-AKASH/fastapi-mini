@@ -1,0 +1,21 @@
+product_id,product_name,category,price,occasion,initial_stock,current_stock,quantity_sold,revenue,sales_date,last_updated
+1,Magnam Set,Soft Toys,1935,All Occasions,30,28,2,3870,2025-12-18,2025-12-18
+2,Voluptas Box,Plants,441,Valentine's Day,2,1,1,441,2025-12-18,2025-12-18
+3,Eius Gift,Colors,1534,Valentine's Day,4,3,1,1534,2025-12-18,2025-12-18
+4,Accusantium Set,Sweets,1199,Diwali,4,2,2,2398,2025-12-18,2025-12-18
+5,Natus Gift,Colors,1444,All Occasions,45,40,5,7220,2025-12-18,2025-12-18
+6,Quos Box,Cake,1112,Holi,56,50,6,6672,2025-12-18,2025-12-18
+7,Quos Set,Soft Toys,409,Holi,67,60,7,2863,2025-12-18,2025-12-18
+8,Qui Box,Sweets,252,Anniversary,1,0,1,252,2025-12-18,2025-12-18
+9,Aperiam Box,Colors,1605,Raksha Bandhan,24,22,2,3210,2025-12-18,2025-12-18
+10,Accusantium Gift,Cake,259,Birthday,56,50,6,1554,2025-12-18,2025-12-18
+11,Maxime Set,Mugs,1096,Valentine's Day,78,70,8,8768,2025-12-18,2025-12-18
+12,Non Set,Plants,672,Anniversary,67,60,7,4704,2025-12-18,2025-12-18
+13,Et Set,Mugs,1141,Holi,78,70,8,9128,2025-12-18,2025-12-18
+14,Deserunt Box,Colors,1915,Birthday,89,80,9,17235,2025-12-18,2025-12-18
+15,Repudiandae Box,Raksha Bandhan,1488,Anniversary,23,20,3,4464,2025-12-18,2025-12-18
+16,Ut Pack,Sweets,1721,Holi,34,30,4,6884,2025-12-18,2025-12-18
+17,Delectus Gift,Soft Toys,1899,Anniversary,5,4,1,1899,2025-12-18,2025-12-18
+18,Nemo Set,Plants,781,Birthday,4,3,1,781,2025-12-18,2025-12-18
+19,Iure Gift,Mugs,1234,Valentine's Day,4,3,1,1234,2025-12-18,2025-12-18
+20,Reiciendis Box,Colors,697,Anniversary,5,4,1,697,2025-12-18,2025-12-18

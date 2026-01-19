@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-jose
+sqlalchemy
+argon2-cffi
+groq
